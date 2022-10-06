@@ -4,8 +4,6 @@
 
 ![](https://velog.velcdn.com/images/dymnam/post/48180efe-9ea2-4412-9fd2-af1636bfca1c/image.png)
 
-![](https://velog.velcdn.com/images/dymnam/post/bf4d04bf-8041-47cb-b990-39276028a64b/image.png)
-
 
 ## try-catch
 ```java
